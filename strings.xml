@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">complain_recording_application</string>
+    <array name="categories">
+        <item>Electricity</item>
+        <item>Environment</item>
+        <item>Privacy</item>
+        <item>Staff</item>
+        <item>Others</item>
+    </array>
+    <array name="severity">
+        <item>High</item>
+        <item>medium</item>
+        <item>Low</item>
+    </array>
+</resources>
